@@ -2,7 +2,7 @@
     "name": "node-npcap",
     "type": "module",
     "version": "0.2.0",
-    "packageManager": "bun@1.2.21",
+    "packageManager": "bun@1.3.9",
     "description": "Native addon to capture & decode network packets.",
     "author": "Iván Máximiliano, Lo Giudice <ivanmaxlogiudice@gmail.com>",
     "license": "MIT",
